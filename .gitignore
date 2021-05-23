@@ -1,4 +1,4 @@
-# created by virtualenv automatically
+**/Lib
 personal.json
 bot_me.py
-__pycache__
+**/__pycache__
